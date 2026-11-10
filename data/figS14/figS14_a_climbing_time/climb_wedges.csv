@@ -1,0 +1,3 @@
+centre x,centre y,outer radius,ring width,start angle (deg),end angle (deg),fill colour
+0,0,1,,-88.295853,90,#212121
+0,0,1,,-270,-88.295853,#999999

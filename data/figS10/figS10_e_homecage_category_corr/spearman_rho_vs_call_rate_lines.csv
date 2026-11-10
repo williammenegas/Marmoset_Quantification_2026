@@ -1,0 +1,13 @@
+line,x,Spearman rho vs call rate,colour,category
+1,0,0.013519814,#6662d7,Climb
+1,0,0.29507705,#6662d7,Climb
+2,1,0.030444296,#a85fba,Active
+2,1,0.18882728,#a85fba,Active
+3,2,0.0096444055,#f05c9b,Alone
+3,2,0.19653894,#f05c9b,Alone
+4,3,-0.27054733,#fb8d7b,Soc-act
+4,3,-0.061636855,#fb8d7b,Soc-act
+5,4,-0.3264598,#fec15d,Soc-rest
+5,4,-0.069189911,#fec15d,Soc-rest
+6,-0.40742857,0,#e0e0e0,Climb
+6,4.4074286,0,#e0e0e0,Soc-rest

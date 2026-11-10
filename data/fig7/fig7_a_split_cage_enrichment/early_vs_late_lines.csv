@@ -1,0 +1,8 @@
+line,Time (months),y,colour,marker fill
+1,0,0,#b8b8b8,
+1,12,0,#b8b8b8,
+2,0,0,#1f77b4,#404040
+3,3,0,#ff7f0e,#404040
+4,6,0,#2ca02c,#404040
+5,9,0,#d62728,none
+6,12,0,#9467bd,none

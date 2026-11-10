@@ -1,0 +1,36 @@
+subplot,text,x,y,coordinates
+,Body moving,2.1931,1.0532,page inches
+,All,1.3131,1.2732,page inches
+,Undirected,1.7531,1.2732,page inches
+,To other,2.1931,1.2732,page inches
+,Interacting,2.6331,1.2732,page inches
+,From other,3.0731,1.2732,page inches
+,Head moving,3.7331,1.0532,page inches
+,All,3.5131,1.2732,page inches
+,Undirected,3.9531,1.2732,page inches
+,Limb,4.3931,1.0532,page inches
+,moving,4.3931,1.1582,page inches
+,Upright,4.8331,1.0532,page inches
+,posture,4.8331,1.1582,page inches
+,Near other,6.1531,1.0532,page inches
+,All,5.2731,1.2732,page inches
+,Side by,5.7131,1.1882,page inches
+,side,5.7131,1.2732,page inches
+,Face to,6.1531,1.1882,page inches
+,face,6.1531,1.2732,page inches
+,Give,6.5931,1.1882,page inches
+,groom,6.5931,1.2732,page inches
+,Get,7.0331,1.1882,page inches
+,groom,7.0331,1.2732,page inches
+,Look at,7.4731,1.0532,page inches
+,other,7.4731,1.1582,page inches
+,Level 1,1.0431,1.5332,page inches
+,4 clusters,1.0431,1.5532,page inches
+,Level 2,1.0431,1.9732,page inches
+,10 clusters,1.0431,1.9932,page inches
+,Level 3,1.0431,2.4132,page inches
+,18 clusters,1.0431,2.4332,page inches
+,Level 4,1.0431,2.8532,page inches
+,30 clusters,1.0431,2.8732,page inches
+,Level 5,1.0431,3.2932,page inches
+,80 clusters,1.0431,3.3132,page inches

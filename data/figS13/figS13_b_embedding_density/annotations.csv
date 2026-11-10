@@ -1,0 +1,18 @@
+subplot,text,x,y,coordinates
+Control Control (day 1),p<1e-4,0.5,10.073355,data
+Control Treat,p<1e-4,0.5,7.8068876,data
+Control Object,p=0.3098,0.5,11.923093,data
+Control Tablet,p<1e-4,0.5,8.1668477,data
+Control Noise,p=0.0002343,0.5,11.813919,data
+Control Toys,p=0.01461,0.5,14.37483,data
+Control Intruder,p<1e-4,0.5,7.971018,data
+Control Mask,p<1e-4,0.5,7.8068876,data
+,Behavioral embedding space,4.2253,3.9085222,page inches
+,Control,0.9003,4.1485222,page inches
+,Treat,2.8078,4.1485222,page inches
+,Object,4.7153,4.1485222,page inches
+,Tablet,6.6228,4.1485222,page inches
+,Noise,0.9003,5.4796333,page inches
+,Toys,2.8078,5.4796333,page inches
+,Intruder,4.7153,5.4796333,page inches
+,Mask,6.6228,5.4796333,page inches

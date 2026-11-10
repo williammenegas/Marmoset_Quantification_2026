@@ -1,0 +1,15 @@
+subplot,text,x,y,coordinates
+,Animal 1,0.9238,0.5629,page inches
+,Climbing,1.8717,0.473,page inches
+,Active,1.8717,0.58,page inches
+,Alone,1.8717,0.687,page inches
+,Social active,1.8717,0.794,page inches
+,Social (rest),1.8717,0.901,page inches
+,Near bed,1.8717,1.008,page inches
+,Animal 2,0.9039,1.523,page inches
+,Climbing,1.8717,1.46,page inches
+,Active,1.8717,1.567,page inches
+,Alone,1.8717,1.674,page inches
+,Social active,1.8717,1.781,page inches
+,Social (rest),1.8717,1.888,page inches
+,Near bed,1.8717,1.995,page inches

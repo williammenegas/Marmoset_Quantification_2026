@@ -1,0 +1,7 @@
+line,x,Time spent active,colour,category
+1,0,0.25536574,#a85fba,Juvenile
+1,0,0.42946759,#a85fba,Juvenile
+2,1,0.20563889,#a85fba,Adult
+2,1,0.39193634,#a85fba,Adult
+3,-0.6,0.34035648,#737373,Juvenile
+3,1.6,0.34035648,#737373,Adult

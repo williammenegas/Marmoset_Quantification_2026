@@ -1,0 +1,22 @@
+subplot,text,x,y,coordinates
+Microphone data 1,1,0.24,8.3871429,data
+Microphone data 2,2,0.24,8.3871429,data
+Microphone data 3,3,0.24,8.3871429,data
+Microphone data 4,4,0.24,8.3871429,data
+,Microphone data,1.3229,1.0292,page inches
+,Frequency (kHz),0.8179,1.6692,page inches
+,Log scale,1.6629,1.3192,page inches
+,Max.,1.7929,1.4292,page inches
+,Min.,1.7929,1.9692,page inches
+,Spectrogram,2.2529,1.0292,page inches
+,Input,2.2529,2.3292,page inches
+,"LSTM, 128 units",2.7879,1.6592,page inches
+,"LSTM, 64 units",3.0479,1.6592,page inches
+,"LSTM, 32 units",3.3079,1.6592,page inches
+,"Dense, 128-64-32 units",3.5779,1.6592,page inches
+,RNN,3.0479,1.0292,page inches
+,Dense,3.5929,1.0292,page inches
+,"Call type, per frame",4.0079,1.6592,page inches
+,Softmax,4.0079,1.0292,page inches
+,Network,3.1829,2.3292,page inches
+,Output,4.0079,2.3292,page inches

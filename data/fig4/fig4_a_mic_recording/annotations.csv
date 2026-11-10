@@ -1,0 +1,16 @@
+subplot,text,x,y,coordinates
+Recording,Mic. 1,0.7919,0.801,data
+Recording,Mic. 2,1.2159,0.801,data
+Recording,Mic. 3,0.7919,2.075,data
+Recording,Mic. 4,1.2159,2.075,data
+Amplitude 1,1,0.15973378,0.34745763,data
+Spectrogram 1,1,0.15973378,9.0635593,data
+Amplitude 2,2,0.15973378,0.34745763,data
+Spectrogram 2,2,0.15973378,9.0635593,data
+Amplitude 3,3,0.15973378,0.34745763,data
+Spectrogram 3,3,0.15973378,9.0635593,data
+Amplitude 4,4,0.15973378,0.34745763,data
+Spectrogram 4,4,0.15973378,9.0635593,data
+,Recording,0.9959,0.555,page inches
+,Amplitude,1.9789,0.555,page inches
+,Spectrogram,2.9039,0.555,page inches

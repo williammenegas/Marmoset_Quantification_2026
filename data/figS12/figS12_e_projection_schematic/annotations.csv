@@ -1,0 +1,10 @@
+subplot,text,x,y,coordinates
+,Projection: response × template,1.2914,5.6004,page inches
+,Response (c),2.8714,5.7004,page inches
+,Template (d),3.7714,5.7004,page inches
+,×,3.3214,5.9404,page inches
+,→ Σ →,4.0714,5.9404,page inches
+,Held-out control - baseline,2.8714,6.3404,page inches
+,Template (d),3.7714,6.3404,page inches
+,×,3.3214,6.5804,page inches
+,→ Σ →,4.0714,6.5804,page inches

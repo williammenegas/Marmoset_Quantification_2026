@@ -1,0 +1,4 @@
+Features,bar width,bar bottom,Correlation with others,name
+1,0.62,0,0.70355524,Baseline: climbing
+2,0.62,0,0.66283018,Mask: social activity
+3,0.62,0,0.61433637,"Mask: active, not social"

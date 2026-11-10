@@ -1,0 +1,10 @@
+subplot,text,x,y,coordinates
+Example state Control Tablet,n = 72 animals,1.5,-0.34907127,data
+Example state Control Tablet,***,1.5,0.80041658,data
+All states,Higher in Control,-0.14510834,0.3228057,data
+All states,Higher with Tablet,0.13169721,-0.3228057,data
+Discriminability Control Tablet,n = 70 animals,1.5,0.11024001,data
+Discriminability Control Tablet,***,1.5,8.8192012,data
+,Example state,5.0083,5.9996,page inches
+,All states,6.3783,5.9996,page inches
+,Discriminability,7.6733,5.9996,page inches

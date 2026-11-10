@@ -1,0 +1,8 @@
+subplot,text,x,y,coordinates
+PCA,99%,16.5,45.6,data
+PCA,1%,36.5,45.6,data
+,Egocentric data,5.4235,4.298,page inches
+,X coordinates,5.4245,4.439,page inches
+,Y coordinates,5.4245,4.874,page inches
+,z-score,6.4685,4.434,page inches
+,PCA,7.4195,4.298,page inches

@@ -1,0 +1,37 @@
+subplot,text,x,y,coordinates
+Recording schedule,Week 1,0.465,0.741,data
+Recording schedule,-,1.039,0.706,data
+Recording schedule,C1,1.251,0.706,data
+Recording schedule,C2,1.463,0.706,data
+Recording schedule,C3,1.675,0.706,data
+Recording schedule,C4,1.887,0.706,data
+Recording schedule,C5,2.099,0.706,data
+Recording schedule,-,2.311,0.706,data
+Recording schedule,Week 2,0.465,1.061,data
+Recording schedule,-,1.039,1.026,data
+Recording schedule,S1,1.251,1.026,data
+Recording schedule,S2,1.463,1.026,data
+Recording schedule,S3,1.675,1.026,data
+Recording schedule,S4,1.887,1.026,data
+Recording schedule,S5,2.099,1.026,data
+Recording schedule,-,2.311,1.026,data
+Recording schedule,Week 3,0.465,1.381,data
+Recording schedule,-,1.039,1.346,data
+Recording schedule,S6,1.251,1.346,data
+Recording schedule,S6,1.463,1.346,data
+Recording schedule,S6,1.675,1.346,data
+Recording schedule,S7,1.887,1.346,data
+Recording schedule,S8,2.099,1.346,data
+Recording schedule,-,2.311,1.346,data
+Recording schedule,Control (C),2.565,0.741,data
+Recording schedule,Stimulus (S),2.565,1.221,data
+Recording schedule,S1: Noise,3.315,0.696,data
+Recording schedule,S2: Treat,3.315,0.846,data
+Recording schedule,S3: Object,3.315,0.996,data
+Recording schedule,S4: Tablet (Neutral),3.315,1.146,data
+Recording schedule,S5: Tablet (Social),3.315,1.296,data
+Recording schedule,S6: Toy (×3),3.315,1.446,data
+Recording schedule,S7: Novel animal,3.315,1.596,data
+Recording schedule,S8: Mask,3.315,1.746,data
+Recording schedule,Repeated every 3 months,1.675,1.626,data
+,Recording schedule,1.675,0.481,page inches

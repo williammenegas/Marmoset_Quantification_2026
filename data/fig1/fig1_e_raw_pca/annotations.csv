@@ -1,0 +1,8 @@
+subplot,text,x,y,coordinates
+PCA,99%,2.5,91.2,data
+PCA,1%,22.5,91.2,data
+,Raw data,1.607,4.298,page inches
+,X coordinates,1.6075,4.439,page inches
+,Y coordinates,1.6075,4.874,page inches
+,z-score,2.6755,4.434,page inches
+,PCA,3.6055,4.298,page inches

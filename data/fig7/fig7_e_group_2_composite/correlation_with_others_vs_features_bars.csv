@@ -1,0 +1,5 @@
+Features,bar width,bar bottom,Correlation with others,name
+1,0.62,0,0.81957611,Box: response size
+2,0.62,0,0.81327219,Face: time near stimulus
+3,0.62,0,0.81050625,Face: response size
+4,0.62,0,0.81047066,Box: time near stimulus

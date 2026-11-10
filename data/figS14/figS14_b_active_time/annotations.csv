@@ -1,0 +1,15 @@
+subplot,text,x,y,coordinates
+Juvenile time active vs Adult time active,Higher in juvenile,0.0090830684,0.83067231,data
+Juvenile time active vs Adult time active,Higher in adult,0.83067231,0.0090830684,data
+Active,35%,0.49919974,0.2537708,data
+Active,65%,-0.49919974,-0.2537708,data
+,Time spent active,6.0564,0.9863,page inches
+,p < 10,5.18015,1.3113,page inches
+,-22,5.45265,1.2693,page inches
+,***,5.3764,1.1743,page inches
+,p < 10,6.63515,1.3413,page inches
+,-44,6.90765,1.2993,page inches
+,***,6.8314,1.2013,page inches
+,Active,7.7164,1.6113,page inches
+,n = 1690,7.7164,2.2713,page inches
+,paired sessions,7.7164,2.3763,page inches

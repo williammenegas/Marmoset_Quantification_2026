@@ -1,0 +1,7 @@
+subplot,text,x,y,coordinates
+,Top view (raw),1.7849388,6.2959,page inches
+,Side view (raw),3.2436806,6.2959,page inches
+,Top view (corrected),5.5011864,6.2959,page inches
+,Side view (corrected),6.9518056,6.2959,page inches
+,Raw data,2.57,6.0259,page inches
+,Depth correction applied,6.285,6.0259,page inches

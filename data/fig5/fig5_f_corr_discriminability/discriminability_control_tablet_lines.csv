@@ -1,0 +1,15 @@
+line,x,Average score (all states),colour,category
+1,1,1.3760234,#76b5a0,Control
+1,1,1.5469324,#76b5a0,Control
+2,2,2.577276,#c98ecf,Tablet
+2,2,3.2489353,#c98ecf,Tablet
+3,0.4,1,#737373,Control
+3,2.6,1,#737373,Tablet
+4,0.4,2,#737373,Control
+4,2.6,2,#737373,Tablet
+5,0.4,3,#737373,Control
+5,2.6,3,#737373,Tablet
+6,1,8.6354678,#262626,Control
+6,1,8.8192012,#262626,Control
+6,2,8.8192012,#262626,Tablet
+6,2,8.6354678,#262626,Tablet

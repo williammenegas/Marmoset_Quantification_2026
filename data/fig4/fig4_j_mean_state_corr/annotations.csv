@@ -1,0 +1,5 @@
+subplot,text,x,y,coordinates,target x,target y
+Mean rho across animals vs Level-5 behavioral state,Climb,5.5,0.30653892,data,5.5,0.29660029
+Mean rho across animals vs Level-5 behavioral state,Active,17,0.30653892,data,17,0.29660029
+Mean rho across animals vs Level-5 behavioral state,Social,44,0.30653892,data,44,0.29660029
+Mean rho across animals vs Level-5 behavioral state,Alone,70,0.30653892,data,70,0.29660029

@@ -1,0 +1,17 @@
+subplot,text,x,y,coordinates
+Climbing Control 1,Control 1,-0.9,0.5,data
+Climbing Control 2,Control 2,-0.9,0.5,data
+Climbing Control 3,Control 3,-0.9,0.5,data
+Climbing Control 4,Control 4,-0.9,0.5,data
+Climbing Box,Box,-0.9,0.5,data
+Social active Control 1,Control 1,-0.9,0.5,data
+Social active Control 2,Control 2,-0.9,0.5,data
+Social active Control 3,Control 3,-0.9,0.5,data
+Social active Control 4,Control 4,-0.9,0.5,data
+Social active Box,Box,-0.9,0.5,data
+,Climbing,1.9136667,1.837,page inches
+,Active,4.407,1.837,page inches
+,Alone,6.9003333,1.837,page inches
+,Social active,1.9136667,2.964,page inches
+,Social (rest),4.407,2.964,page inches
+,Near box,6.9003333,2.964,page inches

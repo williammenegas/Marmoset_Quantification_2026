@@ -1,0 +1,25 @@
+subplot,text,x,y,coordinates
+,Box,1.322125,2.316,page inches
+,n = 72,1.322125,2.426,page inches
+,AUROC 0.993,1.322125,2.536,page inches
+,Face,2.208375,2.316,page inches
+,n = 72,2.208375,2.426,page inches
+,AUROC 0.975,2.208375,2.536,page inches
+,Intruder,3.094625,2.316,page inches
+,n = 91,3.094625,2.426,page inches
+,AUROC 0.963,3.094625,2.536,page inches
+,Mask,3.980875,2.316,page inches
+,n = 92,3.980875,2.426,page inches
+,AUROC 0.953,3.980875,2.536,page inches
+,Treat,4.867125,2.316,page inches
+,n = 91,4.867125,2.426,page inches
+,AUROC 0.918,4.867125,2.536,page inches
+,Toys,5.753375,2.316,page inches
+,n = 82,5.753375,2.426,page inches
+,AUROC 0.697,5.753375,2.536,page inches
+,Noise,6.639625,2.316,page inches
+,n = 92,6.639625,2.426,page inches
+,AUROC 0.625,6.639625,2.536,page inches
+,Object,7.525875,2.316,page inches
+,n = 89,7.525875,2.426,page inches
+,AUROC 0.568,7.525875,2.536,page inches

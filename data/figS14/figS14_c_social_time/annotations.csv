@@ -1,0 +1,13 @@
+subplot,text,x,y,coordinates
+Juvenile time social vs Adult time social,Higher in juvenile,0.010607039,0.97004375,data
+Juvenile time social vs Adult time social,Higher in adult,0.97004375,0.010607039,data
+Social,48%,0.55912941,0.031213848,data
+Social,52%,-0.55912941,-0.031213848,data
+,Time spent social,2.3764,2.9653,page inches
+,p = 0.039,1.6964,3.2903,page inches
+,*,1.6964,3.1533,page inches
+,p = 0.95,3.1514,3.3203,page inches
+,n/s,3.1514,3.1803,page inches
+,Social,4.0364,3.5903,page inches
+,n = 1690,4.0364,4.2503,page inches
+,paired sessions,4.0364,4.3553,page inches

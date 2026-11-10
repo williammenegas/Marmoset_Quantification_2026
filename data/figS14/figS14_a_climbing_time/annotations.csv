@@ -1,0 +1,14 @@
+subplot,text,x,y,coordinates
+Juvenile time climbing vs Adult time climbing,Higher in juvenile,0.0071841956,0.65701502,data
+Juvenile time climbing vs Adult time climbing,Higher in adult,0.65701502,0.0071841956,data
+Climb,50%,0.55993808,0.008327702,data
+Climb,50%,-0.55993808,-0.008327702,data
+,Time spent climbing,2.3764,0.9863,page inches
+,p < 10,1.523275,1.3113,page inches
+,-3,1.795775,1.2693,page inches
+,***,1.6964,1.1743,page inches
+,p = 0.085,3.1514,1.3413,page inches
+,n/s,3.1514,1.2013,page inches
+,Climb,4.0364,1.6113,page inches
+,n = 1690,4.0364,2.2713,page inches
+,paired sessions,4.0364,2.3763,page inches

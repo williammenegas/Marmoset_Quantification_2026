@@ -1,0 +1,7 @@
+subplot,text,x,y,coordinates
+Mic. 1,Mic. 1,0.42,0.86,data
+Mic. 2,Mic. 2,0.42,0.86,data
+Mic. 3,Mic. 3,0.42,0.86,data
+Mic. 4,Mic. 4,0.42,0.86,data
+,Raw microphone data,2.4839,1.0935,page inches
+,Amplitude (a.u.),0.6,1.9105,page inches

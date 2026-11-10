@@ -1,0 +1,9 @@
+x,bar width,bar bottom,AUROC vs held-out control,colour,category
+0,0.72,0,0.99255401,#c98ecf,Box
+1,0.72,0,0.97525077,#c98ecf,Face
+2,0.72,0,0.96342229,#a6af74,Intruder
+3,0.72,0,0.95285917,#b9a673,Mask
+4,0.72,0,0.91787224,#d68e83,Treat
+5,0.72,0,0.69651993,#76b5a0,Toys
+6,0.72,0,0.62453922,#90aada,Noise
+7,0.72,0,0.56843833,#d7889d,Object

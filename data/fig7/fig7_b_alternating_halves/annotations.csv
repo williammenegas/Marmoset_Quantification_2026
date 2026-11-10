@@ -1,0 +1,15 @@
+subplot,text,x,y,coordinates
+Alternating,Group 1,-0.03,8.5,data
+Alternating,Group 1,1.03,10.5,data
+Alternating,Group 2,-0.03,32.5,data
+Alternating,Group 2,1.03,34.5,data
+Alternating,Group 3,-0.03,59,data
+Alternating,Group 3,1.03,59,data
+,Group 1,4.0718125,0.6695,page inches
+,Group 2,4.52025,0.6695,page inches
+,Group 3,5.0124375,0.6695,page inches
+,Alternating,4.564,0.4706,page inches
+,Correlation,5.5415,0.9995,page inches
+,Alternating,4.5118,2.5027,page inches
+,Half 1,3.915,2.6367,page inches
+,Half 2,5.217,2.6367,page inches

@@ -1,0 +1,6 @@
+# Python packages for the standalone figure scripts.
+# Install with:  pip install -r code/requirements.txt
+# Tested with Python 3.13.9; the scripts use nothing else
+# beyond the standard library.
+numpy==2.3.5
+matplotlib==3.10.6

@@ -1,0 +1,187 @@
+line,x,Time near stimulus (min),colour,category
+1,0.032425142,8.9755318,#cccccc,Control
+1,1.100256,3.3651221,#cccccc,Control (day 1)
+2,-0.051553531,6.800066,#cccccc,Control
+2,1.1083976,3.7087602,#cccccc,Control (day 1)
+3,-0.10917841,7.8033705,#cccccc,Control
+3,0.8881169,3.8378827,#cccccc,Control (day 1)
+4,-0.10505441,10.188103,#cccccc,Control
+4,1.0752646,7.1391415,#cccccc,Control (day 1)
+5,0.048347224,0.26894103,#cccccc,Control
+5,1.095474,0.19630761,#cccccc,Control (day 1)
+6,0.073371917,0.93399319,#cccccc,Control
+6,1.1046182,1.1398115,#cccccc,Control (day 1)
+7,0.018277897,0.72910643,#cccccc,Control
+7,0.92744183,0.39869499,#cccccc,Control (day 1)
+8,0.051930583,6.9334411,#cccccc,Control
+8,1.1122687,2.9665552,#cccccc,Control (day 1)
+9,0.0094810367,6.4386577,#cccccc,Control
+9,1.0934386,2.0311939,#cccccc,Control (day 1)
+10,0.079162167,11.862013,#cccccc,Control
+10,1.0403542,12.164942,#cccccc,Control (day 1)
+11,0.074054663,9.1808354,#cccccc,Control
+11,0.99607437,8.0820151,#cccccc,Control (day 1)
+12,-0.11380831,9.5650728,#cccccc,Control
+12,0.97193761,13.492894,#cccccc,Control (day 1)
+13,0.084646794,7.6897707,#cccccc,Control
+13,1.0541306,9.1491058,#cccccc,Control (day 1)
+14,-0.11185953,8.1792349,#cccccc,Control
+14,1.0936617,5.076958,#cccccc,Control (day 1)
+15,0.044711885,1.7565293,#cccccc,Control
+15,0.94387127,2.1769784,#cccccc,Control (day 1)
+16,-0.064434521,5.2049808,#cccccc,Control
+16,1.0084833,5.6088216,#cccccc,Control (day 1)
+17,0.070947469,3.8086987,#cccccc,Control
+17,0.98731823,5.0180176,#cccccc,Control (day 1)
+18,0.0040366619,15.128684,#cccccc,Control
+18,1.0570041,11.728311,#cccccc,Control (day 1)
+19,-0.046684101,9.2861042,#cccccc,Control
+19,0.90515627,7.1984406,#cccccc,Control (day 1)
+20,-0.01855203,8.4010869,#cccccc,Control
+20,1.0449116,8.2663248,#cccccc,Control (day 1)
+21,-0.10229607,6.4139657,#cccccc,Control
+21,1.0230581,7.6509804,#cccccc,Control (day 1)
+22,-0.0081446569,19.86571,#cccccc,Control
+22,0.96207658,15.029087,#cccccc,Control (day 1)
+23,0.028628325,12.502798,#cccccc,Control
+23,1.0194597,14.519659,#cccccc,Control (day 1)
+24,0.0087591389,16.669732,#cccccc,Control
+24,0.92656113,10.627488,#cccccc,Control (day 1)
+25,0.019787452,0.73170071,#cccccc,Control
+25,1.0517295,0.24714723,#cccccc,Control (day 1)
+26,-0.021813355,1.3247036,#cccccc,Control
+26,1.0026445,0.41674809,#cccccc,Control (day 1)
+27,0.085564297,0.74994711,#cccccc,Control
+27,1.100271,1.4006619,#cccccc,Control (day 1)
+28,0.11426901,8.8767025,#cccccc,Control
+28,0.90393526,5.0391326,#cccccc,Control (day 1)
+29,0.043404293,7.4334974,#cccccc,Control
+29,1.0699995,7.3319935,#cccccc,Control (day 1)
+30,0.035100298,9.2711522,#cccccc,Control
+30,0.92085053,8.9562819,#cccccc,Control (day 1)
+31,0.044533462,9.017934,#cccccc,Control
+31,0.97659675,10.703377,#cccccc,Control (day 1)
+32,-0.013775359,14.193151,#cccccc,Control
+32,0.99194843,12.789676,#cccccc,Control (day 1)
+33,-0.063035111,12.283315,#cccccc,Control
+33,1.0634207,11.501242,#cccccc,Control (day 1)
+34,0.052954032,7.9865625,#cccccc,Control
+34,1.0134312,5.9515568,#cccccc,Control (day 1)
+35,0.0040845859,12.788652,#cccccc,Control
+35,0.95580985,8.9212714,#cccccc,Control (day 1)
+36,-0.043206654,9.635368,#cccccc,Control
+36,0.96979079,12.695923,#cccccc,Control (day 1)
+37,-0.0033920181,8.586746,#cccccc,Control
+37,1.0826488,6.3968314,#cccccc,Control (day 1)
+38,0.087822281,6.8873875,#cccccc,Control
+38,0.94114203,6.1307605,#cccccc,Control (day 1)
+39,0.085055566,3.6429083,#cccccc,Control
+39,0.91583791,4.6340245,#cccccc,Control (day 1)
+40,-0.025873865,11.86219,#cccccc,Control
+40,0.97020035,11.229916,#cccccc,Control (day 1)
+41,0.01271791,12.053918,#cccccc,Control
+41,1.008054,14.223279,#cccccc,Control (day 1)
+42,-0.034978841,1.9093843,#cccccc,Control
+42,1.01241,1.1686768,#cccccc,Control (day 1)
+43,0.018546489,3.4702284,#cccccc,Control
+43,1.0662169,6.2703091,#cccccc,Control (day 1)
+44,-0.034927849,6.3381864,#cccccc,Control
+44,1.014397,2.8837853,#cccccc,Control (day 1)
+45,-0.021173874,3.8045598,#cccccc,Control
+45,0.95402471,5.7077193,#cccccc,Control (day 1)
+46,0.083065278,6.1917398,#cccccc,Control
+46,0.98146901,6.4257952,#cccccc,Control (day 1)
+47,-0.048980763,11.97468,#cccccc,Control
+47,1.0675754,6.4721014,#cccccc,Control (day 1)
+48,0.016387757,13.872234,#cccccc,Control
+48,1.0126816,13.793537,#cccccc,Control (day 1)
+49,-0.042994573,14.915903,#cccccc,Control
+49,1.0573968,12.174536,#cccccc,Control (day 1)
+50,0.06933185,10.616076,#cccccc,Control
+50,0.9727253,6.9304782,#cccccc,Control (day 1)
+51,0.064693699,9.7696686,#cccccc,Control
+51,1.011452,5.6447811,#cccccc,Control (day 1)
+52,-0.049555931,11.478362,#cccccc,Control
+52,1.0168223,9.1607787,#cccccc,Control (day 1)
+53,0.089956183,8.6949863,#cccccc,Control
+53,1.0727456,0.45940677,#cccccc,Control (day 1)
+54,-0.086019837,4.5987908,#cccccc,Control
+54,0.91741089,1.3563501,#cccccc,Control (day 1)
+55,-0.039068443,8.780247,#cccccc,Control
+55,0.98213717,0.029281706,#cccccc,Control (day 1)
+56,-0.053815257,0.25794648,#cccccc,Control
+56,1.0950507,1.2930217,#cccccc,Control (day 1)
+57,-0.0086769637,0.83280678,#cccccc,Control
+57,0.89536659,1.1478341,#cccccc,Control (day 1)
+58,0.053498336,1.0332826,#cccccc,Control
+58,1.0694167,0.63765866,#cccccc,Control (day 1)
+59,-0.045973426,0.70722481,#cccccc,Control
+59,0.98170892,0.67002389,#cccccc,Control (day 1)
+60,-0.10564309,9.0644917,#cccccc,Control
+60,1.0548461,9.8565109,#cccccc,Control (day 1)
+61,-0.0040692317,17.667902,#cccccc,Control
+61,0.99194851,20.664783,#cccccc,Control (day 1)
+62,-0.05603237,11.679774,#cccccc,Control
+62,0.99442347,17.491697,#cccccc,Control (day 1)
+63,-0.072081675,12.130111,#cccccc,Control
+63,0.96910012,15.452444,#cccccc,Control (day 1)
+64,0.01531168,1.4840601,#cccccc,Control
+64,1.0360151,1.5658929,#cccccc,Control (day 1)
+65,-0.039369404,3.7453778,#cccccc,Control
+65,0.95143665,6.1258996,#cccccc,Control (day 1)
+66,0.033748795,3.5787785,#cccccc,Control
+66,1.047769,3.2196369,#cccccc,Control (day 1)
+67,-0.059351965,3.2716602,#cccccc,Control
+67,1.1024564,3.8012743,#cccccc,Control (day 1)
+68,0.10172677,7.1650473,#cccccc,Control
+68,0.91326292,3.6190003,#cccccc,Control (day 1)
+69,-0.022403647,0.57481347,#cccccc,Control
+69,1.069223,0.00084827235,#cccccc,Control (day 1)
+70,-0.078487166,2.8605012,#cccccc,Control
+70,0.89447689,2.5796036,#cccccc,Control (day 1)
+71,0.016343646,14.102279,#cccccc,Control
+71,0.97426685,0.65963023,#cccccc,Control (day 1)
+72,0.085133735,2.5422388,#cccccc,Control
+72,0.98320647,1.9243948,#cccccc,Control (day 1)
+73,-0.012058167,5.5196257,#cccccc,Control
+73,0.99735319,2.9919405,#cccccc,Control (day 1)
+74,0.075207273,12.604463,#cccccc,Control
+74,1.0879079,8.8475261,#cccccc,Control (day 1)
+75,-2.2107057e-05,10.436669,#cccccc,Control
+75,1.0576762,6.8884109,#cccccc,Control (day 1)
+76,-0.017316271,7.2639321,#cccccc,Control
+76,0.96387194,8.5694898,#cccccc,Control (day 1)
+77,0.023388676,4.1330702,#cccccc,Control
+77,0.94709397,3.9180159,#cccccc,Control (day 1)
+78,0.10260888,5.863278,#cccccc,Control
+78,1.0859688,3.0816534,#cccccc,Control (day 1)
+79,0.10558339,7.5350446,#cccccc,Control
+79,1.0870033,4.1195556,#cccccc,Control (day 1)
+80,-0.0077728393,4.1475623,#cccccc,Control
+80,1.0025081,3.4014881,#cccccc,Control (day 1)
+81,0.061854923,8.3056864,#cccccc,Control
+81,0.97046132,8.5246812,#cccccc,Control (day 1)
+82,-0.00035210137,13.742129,#cccccc,Control
+82,1.0791855,10.188865,#cccccc,Control (day 1)
+83,0.0069917336,7.894834,#cccccc,Control
+83,0.96759298,9.3302243,#cccccc,Control (day 1)
+84,0.053928508,11.545948,#cccccc,Control
+84,0.94406507,9.3180752,#cccccc,Control (day 1)
+85,-0.0099362596,14.458914,#cccccc,Control
+85,1.0214953,16.465971,#cccccc,Control (day 1)
+86,0.045426267,1.68288,#cccccc,Control
+86,1.0668842,0.60871457,#cccccc,Control (day 1)
+87,0.040546884,1.5690247,#cccccc,Control
+87,1.034881,0.42984341,#cccccc,Control (day 1)
+88,0.078681792,1.0927886,#cccccc,Control
+88,1.0972789,0.55235456,#cccccc,Control (day 1)
+89,-0.075014012,3.9990449,#cccccc,Control
+89,1.0817161,0.048767192,#cccccc,Control (day 1)
+90,0.043495166,1.4463744,#cccccc,Control
+90,1.0490807,0.1798057,#cccccc,Control (day 1)
+91,0,24.097204,#262626,Control
+91,0,24.810139,#262626,Control
+92,1,24.097204,#262626,Control (day 1)
+92,1,24.810139,#262626,Control (day 1)
+93,0,24.810139,#262626,Control
+93,1,24.810139,#262626,Control (day 1)

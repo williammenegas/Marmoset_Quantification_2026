@@ -1,0 +1,18 @@
+subplot,text,x,y,coordinates
+Control Control (day 1),p=0.0001642,0.5,25.380487,data
+Control Treat,p<1e-4,0.5,13.168193,data
+Control Object,p=0.1198,0.5,11.998655,data
+Control Tablet,p<1e-4,0.5,27.8924,data
+Control Noise,p<1e-4,0.5,25.481645,data
+Control Toys,p=0.09976,0.5,12.872305,data
+Control Intruder,p=0.01693,0.5,11.625992,data
+Control Mask,p<1e-4,0.5,8.0721591,data
+,Cage space,4.2253,0.8663,page inches
+,Control,0.9003,1.1063,page inches
+,Treat,2.8078,1.1063,page inches
+,Object,4.7153,1.1063,page inches
+,Tablet,6.6228,1.1063,page inches
+,Noise,0.9003,2.4374111,page inches
+,Toys,2.8078,2.4374111,page inches
+,Intruder,4.7153,2.4374111,page inches
+,Mask,6.6228,2.4374111,page inches

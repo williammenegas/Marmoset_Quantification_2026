@@ -1,0 +1,9 @@
+line,State category (frames),Head radius (px),colour,marker fill,category
+1,0,13.677008,#737373,,Other (751)
+1,0,17.226539,#737373,,Other (751)
+2,0,15.109989,#1f77b4,#737373,Other (751)
+3,1,19.067724,#6662d7,,Climbing (733)
+3,1,25.031206,#6662d7,,Climbing (733)
+4,1,22.743549,#ff7f0e,#6662d7,Climbing (733)
+5,-0.6,16.456898,#999999,,Other (751)
+5,1.6,16.456898,#999999,,Climbing (733)

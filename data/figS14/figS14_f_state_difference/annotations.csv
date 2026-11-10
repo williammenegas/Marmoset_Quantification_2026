@@ -1,0 +1,5 @@
+subplot,text,x,y,coordinates,target x,target y
+Relative difference vs Behavioral state #,Climb,5.5,0.57141745,data,5.5,0.55
+Relative difference vs Behavioral state #,Active,17,0.57141745,data,17,0.55
+Relative difference vs Behavioral state #,Social,44,0.57141745,data,44,0.55
+Relative difference vs Behavioral state #,Alone,70,0.57141745,data,70,0.55

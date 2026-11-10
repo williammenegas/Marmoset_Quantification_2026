@@ -1,0 +1,3 @@
+subplot,text,x,y,coordinates
+Correlation vs Behavioral state # 1,State correlation (Control),40.5,0.46466679,data
+Correlation vs Behavioral state # 2,State correlation (Tablet),40.5,0.46466679,data

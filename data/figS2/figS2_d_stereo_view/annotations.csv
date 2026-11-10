@@ -1,0 +1,5 @@
+subplot,text,x,y,coordinates
+Head depth (a.u.) vs State category (frames),77% below,0,9,data
+Head depth (a.u.) vs State category (frames),82% above,1,291,data
+,Stereo vision,1.443,3.2014,page inches
+,AUC = 0.81,2.9171806,3.2649,page inches

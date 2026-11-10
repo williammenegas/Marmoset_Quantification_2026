@@ -1,0 +1,32 @@
+subplot,text,x,y,coordinates
+,Body moving,2.1931,3.8932,page inches
+,All,1.3131,4.1132,page inches
+,Undirected,1.7531,4.1132,page inches
+,To other,2.1931,4.1132,page inches
+,Interacting,2.6331,4.1132,page inches
+,From other,3.0731,4.1132,page inches
+,Head moving,3.7331,3.8932,page inches
+,All,3.5131,4.1132,page inches
+,Undirected,3.9531,4.1132,page inches
+,Limb,4.3931,3.8932,page inches
+,moving,4.3931,3.9982,page inches
+,Upright,4.8331,3.8932,page inches
+,posture,4.8331,3.9982,page inches
+,Near other,6.1531,3.8932,page inches
+,All,5.2731,4.1132,page inches
+,Side by,5.7131,4.0282,page inches
+,side,5.7131,4.1132,page inches
+,Face to,6.1531,4.0282,page inches
+,face,6.1531,4.1132,page inches
+,Give,6.5931,4.0282,page inches
+,groom,6.5931,4.1132,page inches
+,Get,7.0331,4.0282,page inches
+,groom,7.0331,4.1132,page inches
+,Look at,7.4731,3.8932,page inches
+,other,7.4731,3.9982,page inches
+,1 sec.,1.0133,4.3528,page inches
+,prior,1.0133,4.4694667,page inches
+,10 sec.,1.0133,4.7928,page inches
+,prior,1.0133,4.9094667,page inches
+,60 sec.,1.0133,5.2328,page inches
+,prior,1.0133,5.3494667,page inches

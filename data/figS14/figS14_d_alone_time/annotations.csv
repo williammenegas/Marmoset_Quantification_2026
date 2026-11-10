@@ -1,0 +1,15 @@
+subplot,text,x,y,coordinates
+Juvenile time alone vs Adult time alone,Higher in juvenile,0.009282979,0.8489547,data
+Juvenile time alone vs Adult time alone,Higher in adult,0.8489547,0.009282979,data
+Alone,62%,0.52098083,-0.2053752,data
+Alone,38%,-0.52098083,0.2053752,data
+,Time spent alone,6.0564,2.9653,page inches
+,p < 10,5.18015,3.2903,page inches
+,-30,5.45265,3.2483,page inches
+,***,5.3764,3.1533,page inches
+,p < 10,6.63515,3.3203,page inches
+,-34,6.90765,3.2783,page inches
+,***,6.8314,3.1803,page inches
+,Alone,7.7164,3.5903,page inches
+,n = 1690,7.7164,4.2503,page inches
+,paired sessions,7.7164,4.3553,page inches

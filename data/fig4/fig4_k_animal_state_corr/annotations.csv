@@ -1,0 +1,5 @@
+subplot,text,x,y,coordinates,target x,target y
+Animal vs Level-5 behavioral state,Climb,5.5,69.287879,data,5.5,68
+Animal vs Level-5 behavioral state,Active,17,69.287879,data,17,68
+Animal vs Level-5 behavioral state,Social,44,69.287879,data,44,68
+Animal vs Level-5 behavioral state,Alone,70,69.287879,data,70,68

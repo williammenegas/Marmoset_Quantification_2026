@@ -1,0 +1,15 @@
+subplot,text,x,y,coordinates
+Early vs late,Group 1,-0.03,10,data
+Early vs late,Group 1,1.03,11,data
+Early vs late,Group 2,-0.03,33.5,data
+Early vs late,Group 2,1.03,33.5,data
+Early vs late,Group 3,-0.03,58.5,data
+Early vs late,Group 3,1.03,57.5,data
+,Group 1,6.5259125,0.6695,page inches
+,Group 2,6.97435,0.6695,page inches
+,Group 3,7.4665375,0.6695,page inches
+,Early vs late,7.0181,0.4706,page inches
+,Correlation,7.9956,0.9995,page inches
+,Early vs late,7.0205,2.5027,page inches
+,Half 1,6.3695,2.6367,page inches
+,Half 2,7.6715,2.6367,page inches

@@ -1,0 +1,5 @@
+subplot,text,x,y,coordinates
+Head radius (px) vs State category (frames),71% below,0,1.8,data
+Head radius (px) vs State category (frames),87% above,1,58.2,data
+,Single view,1.4354,1.8201,page inches
+,AUC = 0.82,2.8903056,1.8749,page inches

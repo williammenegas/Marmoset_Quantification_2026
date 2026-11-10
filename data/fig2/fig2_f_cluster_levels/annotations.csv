@@ -1,0 +1,16 @@
+subplot,text,x,y,coordinates
+4 clusters,Climbing,-37.6,38,data
+4 clusters,Active,37.6,38,data
+4 clusters,Social,37.6,-38,data
+4 clusters,Alone,-37.6,-38,data
+18 clusters,Climbing,-75.2,-76,data
+18 clusters,Active,-75.2,76,data
+18 clusters,Social,75.2,76,data
+18 clusters,Alone,75.2,-76,data
+80 clusters,Climbing,-112.8,-114,data
+80 clusters,Active,-112.8,114,data
+80 clusters,Social,112.8,114,data
+80 clusters,Alone,112.8,-114,data
+,4 clusters,2.66,3.5942,page inches
+,18 clusters,3.923,3.5942,page inches
+,80 clusters,5.185,3.5942,page inches
