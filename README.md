@@ -1,4 +1,4 @@
-# Automated behavioral profiling reveals stable baseline phenotypes in marmosets
+# Automated behavioral profiling reveals baseline phenotypes in marmosets
 
 Data and code to reproduce the figures from this paper.
 
