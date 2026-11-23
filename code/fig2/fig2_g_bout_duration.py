@@ -332,7 +332,7 @@ PANEL = {'title': ['Mean bout duration'],
             'rotation': 0.0,
             'colour': '#262626'}],
  'legends': [],
- 'letter': {'ch': 'g', 'x': 5.7455, 'baseline': 3.44, 'top': 3.32}}
+ 'letter': {'ch': 'g', 'x': 5.7617, 'baseline': 3.44, 'top': 3.32}}
 
 
 # ---------------------------------------------------------------------------

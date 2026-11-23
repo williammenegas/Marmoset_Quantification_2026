@@ -453,7 +453,7 @@ PANEL = {'title': ['4 clusters', '18 clusters', '80 clusters'],
             'rotation': 0.0,
             'colour': '#262626'}],
  'legends': [],
- 'letter': {'ch': 'f', 'x': 1.8613, 'baseline': 3.44, 'top': 3.32}}
+ 'letter': {'ch': 'f', 'x': 1.8382, 'baseline': 3.44, 'top': 3.32}}
 
 
 # ---------------------------------------------------------------------------
