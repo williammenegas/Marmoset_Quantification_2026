@@ -87,7 +87,7 @@ license and indicate if changes were made.
 
 ## Index
 
-107 panels drawn by code, 184.5 MB in all; a panel marked "artwork pasted in Illustrator; not drawn by code" has no folder.
+107 panels drawn by code, 213.9 MB in all; a panel marked "artwork pasted in Illustrator; not drawn by code" has no folder.
 
 ### Figure 1 (`fig1/`, 2.3 MB)
 
@@ -101,18 +101,18 @@ license and indicate if changes were made.
 | f | [`fig1_f_egocentric_pca`](fig1/fig1_f_egocentric_pca/README.md) | "Egocentric data", "PCA" | `annotations.csv` (260 B); `pca_bars.csv` (861 B); `pca_lines.csv` (107 B); `x_coordinates_map.csv` (85.6 KB); `y_coordinates_map.csv` (85.3 KB) | 172.1 KB |
 | artwork | [`fig1_artwork`](fig1/fig1_artwork/README.md) | the page's artwork, drawn over its panels | `artwork.png` (251.9 KB) | 251.9 KB |
 
-### Figure 2 (`fig2/`, 443.7 KB)
+### Figure 2 (`fig2/`, 29.9 MB)
 
 | Panel | Folder | Title | Files | Size |
 |---|---|---|---|---|
 | a | [`fig2_a_state_usage_tsne`](fig2/fig2_a_state_usage_tsne/README.md) | "Behavioral state usage" | `annotations.csv` (78 B); `behavioral_state_usage_points.csv` (2.6 KB) | 2.7 KB |
 | b | [`fig2_b_state_raster`](fig2/fig2_b_state_raster/README.md) | (no title printed) | `behavioral_state_vs_time_min_boxes.csv` (187 B); `behavioral_state_vs_time_min_points.csv` (199.4 KB) | 199.5 KB |
 | c | `fig2_c_model_schematic` | (no title printed) | artwork pasted in Illustrator; not drawn by code | |
-| d | [`fig2_d_category_maps`](fig2/fig2_d_category_maps/README.md) | "Model output", "Climbing", "Active", "Alone", "Social active", "Social resting" | `active_map.csv` (25.8 KB); `alone_map.csv` (26.6 KB); `annotations.csv` (255 B); `climbing_map.csv` (26.5 KB); `model_output_image.png` (3.8 KB); `social_active_map.csv` (27.1 KB); `social_resting_map.csv` (23.1 KB) | 133.2 KB |
+| d | [`fig2_d_category_maps`](fig2/fig2_d_category_maps/README.md) | "Model output", "Climbing", "Active", "Alone", "Social active", "Social resting" | `active_points.csv` (3.5 MB); `alone_points.csv` (2.0 MB); `annotations.csv` (261 B); `climbing_points.csv` (4.0 MB); `model_output_points.csv` (17.2 MB); `social_active_points.csv` (1.6 MB); `social_resting_points.csv` (1.3 MB) | 29.6 MB |
 | e | [`fig2_e_state_usage`](fig2/fig2_e_state_usage/README.md) | "Behavioral state usage" | `annotations.csv` (79 B); `behavioral_state_usage_bars.csv` (2.1 KB) | 2.2 KB |
 | f | [`fig2_f_cluster_levels`](fig2/fig2_f_cluster_levels/README.md) | "4 clusters", "18 clusters", "80 clusters" | `18_clusters_points.csv` (604 B); `4_clusters_points.csv` (168 B); `80_clusters_points.csv` (2.6 KB); `annotations.csv` (544 B) | 3.9 KB |
 | g | [`fig2_g_bout_duration`](fig2/fig2_g_bout_duration/README.md) | "Mean bout duration" | `annotations.csv` (75 B); `mean_bout_duration_lines.csv` (365 B); `mean_bout_duration_points.csv` (8.9 KB) | 9.3 KB |
-| artwork | [`fig2_artwork`](fig2/fig2_artwork/README.md) | the page's artwork, drawn over its panels | `artwork.png` (92.9 KB) | 92.9 KB |
+| artwork | [`fig2_artwork`](fig2/fig2_artwork/README.md) | the page's artwork, drawn over its panels | `artwork.png` (82.4 KB) | 82.4 KB |
 
 ### Figure 3 (`fig3/`, 811.1 KB)
 

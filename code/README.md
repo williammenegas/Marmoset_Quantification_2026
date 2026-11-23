@@ -77,7 +77,7 @@ Page: [`fig1_page.py`](fig1/fig1_page.py).
 | a | the 80 clusters on t-SNE, area by usage | [`fig2_a_state_usage_tsne.py`](fig2/fig2_a_state_usage_tsne.py) |
 | b | an hour of one animal, each sample at its state | [`fig2_b_state_raster.py`](fig2/fig2_b_state_raster.py) |
 | c | the model schematic (hand-drawn) | `fig2_c_model_schematic`: artwork pasted in Illustrator; not drawn by code |
-| d | where each category happens, and all of them on one map | [`fig2_d_category_maps.py`](fig2/fig2_d_category_maps.py) |
+| d | one animal's frames by category, and all of them on one map | [`fig2_d_category_maps.py`](fig2/fig2_d_category_maps.py) |
 | e | usage of each of the 80 states | [`fig2_e_state_usage.py`](fig2/fig2_e_state_usage.py) |
 | f | the embedding at three levels | [`fig2_f_cluster_levels.py`](fig2/fig2_f_cluster_levels.py) |
 | g | how long a bout lasts at each level | [`fig2_g_bout_duration.py`](fig2/fig2_g_bout_duration.py) |
