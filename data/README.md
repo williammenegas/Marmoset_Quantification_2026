@@ -99,7 +99,7 @@ license and indicate if changes were made.
 | d | [`fig1_d_paths_by_id`](fig1/fig1_d_paths_by_id/README.md) | "Sorted by ID" | `animal_1_lines.csv` (221.7 KB); `animal_2_lines.csv` (225.6 KB); `animal_3_lines.csv` (225.5 KB); `animal_4_lines.csv` (229.3 KB); `annotations.csv` (200 B) | 902.3 KB |
 | e | [`fig1_e_raw_pca`](fig1/fig1_e_raw_pca/README.md) | "Raw data", "PCA" | `annotations.csv` (251 B); `pca_bars.csv` (925 B); `pca_lines.csv` (105 B); `x_coordinates_map.csv` (87.0 KB); `y_coordinates_map.csv` (86.8 KB) | 175.1 KB |
 | f | [`fig1_f_egocentric_pca`](fig1/fig1_f_egocentric_pca/README.md) | "Egocentric data", "PCA" | `annotations.csv` (260 B); `pca_bars.csv` (861 B); `pca_lines.csv` (107 B); `x_coordinates_map.csv` (85.6 KB); `y_coordinates_map.csv` (85.3 KB) | 172.1 KB |
-| artwork | [`fig1_artwork`](fig1/fig1_artwork/README.md) | the page's artwork, drawn over its panels | `artwork.png` (251.9 KB) | 251.9 KB |
+| artwork | [`fig1_artwork`](fig1/fig1_artwork/README.md) | the page's artwork, drawn over its panels | `artwork.png` (258.0 KB) | 258.0 KB |
 
 ### Figure 2 (`fig2/`, 29.9 MB)
 
