@@ -55,7 +55,7 @@ The data folders hold what a panel draws, not how the page is laid out, so each 
 
 ## Panels
 
-112 panels on 22 pages: 107 redrawn by a script here, 5 pasted in as artwork. A panel drawn by code with some artwork pasted beside it says so in its script's docstring. A page with artwork draws it over its panels, from one transparent image of the whole page in `data/<fig>/<fig>_artwork/`, so the rendered page is complete.
+112 panels on 22 pages: 106 redrawn by a script here, 6 pasted in as artwork. A panel drawn by code with some artwork pasted beside it says so in its script's docstring. A page with artwork draws it over its panels, from one transparent image of the whole page in `data/<fig>/<fig>_artwork/`, so the rendered page is complete.
 
 ### Figure 1 (`fig1/`)
 
@@ -63,7 +63,7 @@ The data folders hold what a panel draws, not how the page is laid out, so each 
 |---|---|---|
 | a | the cage and camera, and the tracker's label accuracy | `fig1_a_homecage_video`: artwork pasted in Illustrator; not drawn by code |
 | b | every keypoint against time, in 3-D | [`fig1_b_label_timeseries.py`](fig1/fig1_b_label_timeseries.py) |
-| c | a labelled frame of all four animals | [`fig1_c_labeled_image.py`](fig1/fig1_c_labeled_image.py) |
+| c | a labelled frame and the identity accuracy | `fig1_c_labeled_image`: artwork pasted in Illustrator; not drawn by code |
 | d | each animal's path, sorted by identity | [`fig1_d_paths_by_id.py`](fig1/fig1_d_paths_by_id.py) |
 | e | six calm minutes of one animal's raw keypoints, and their PCA | [`fig1_e_raw_pca.py`](fig1/fig1_e_raw_pca.py) |
 | f | the same after the egocentric transform, and its PCA | [`fig1_f_egocentric_pca.py`](fig1/fig1_f_egocentric_pca.py) |

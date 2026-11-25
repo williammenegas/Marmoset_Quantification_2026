@@ -87,19 +87,19 @@ license and indicate if changes were made.
 
 ## Index
 
-107 panels drawn by code, 213.9 MB in all; a panel marked "artwork pasted in Illustrator; not drawn by code" has no folder.
+106 panels drawn by code, 214.1 MB in all; a panel marked "artwork pasted in Illustrator; not drawn by code" has no folder.
 
-### Figure 1 (`fig1/`, 2.3 MB)
+### Figure 1 (`fig1/`, 2.4 MB)
 
 | Panel | Folder | Title | Files | Size |
 |---|---|---|---|---|
 | a | `fig1_a_homecage_video` | "Homecage video", "Label accuracy" | artwork pasted in Illustrator; not drawn by code | |
 | b | [`fig1_b_label_timeseries`](fig1/fig1_b_label_timeseries/README.md) | "Label timeseries" | `annotations.csv` (71 B); `label_timeseries_lines.csv` (582.1 KB) | 582.2 KB |
-| c | [`fig1_c_labeled_image`](fig1/fig1_c_labeled_image/README.md) | "Labeled image" | `annotations.csv` (68 B); `labeled_image.png` (187.3 KB); `labeled_image_lines.csv` (13.6 KB) | 201.0 KB |
+| c | `fig1_c_labeled_image` | "Labeled image", "ID accuracy" | artwork pasted in Illustrator; not drawn by code | |
 | d | [`fig1_d_paths_by_id`](fig1/fig1_d_paths_by_id/README.md) | "Sorted by ID" | `animal_1_lines.csv` (221.7 KB); `animal_2_lines.csv` (225.6 KB); `animal_3_lines.csv` (225.5 KB); `animal_4_lines.csv` (229.3 KB); `annotations.csv` (200 B) | 902.3 KB |
 | e | [`fig1_e_raw_pca`](fig1/fig1_e_raw_pca/README.md) | "Raw data", "PCA" | `annotations.csv` (251 B); `pca_bars.csv` (925 B); `pca_lines.csv` (105 B); `x_coordinates_map.csv` (87.0 KB); `y_coordinates_map.csv` (86.8 KB) | 175.1 KB |
 | f | [`fig1_f_egocentric_pca`](fig1/fig1_f_egocentric_pca/README.md) | "Egocentric data", "PCA" | `annotations.csv` (260 B); `pca_bars.csv` (861 B); `pca_lines.csv` (107 B); `x_coordinates_map.csv` (85.6 KB); `y_coordinates_map.csv` (85.3 KB) | 172.1 KB |
-| artwork | [`fig1_artwork`](fig1/fig1_artwork/README.md) | the page's artwork, drawn over its panels | `artwork.png` (258.0 KB) | 258.0 KB |
+| artwork | [`fig1_artwork`](fig1/fig1_artwork/README.md) | the page's artwork, drawn over its panels | `artwork.png` (589.7 KB) | 589.7 KB |
 
 ### Figure 2 (`fig2/`, 29.9 MB)
 

@@ -47,7 +47,7 @@ Each folder holds the values the panel plots (CSV, or PNG for images), a README.
 ## Notes
 
 - The scripts redraw the stored values; they do not recompute statistics.
-- `fig1_a_homecage_video` and `fig2_c_model_schematic` and `figS2_a_depth_methods` and `figS9_b_spectral_profiles` and `figS9_c_call_type_examples` are artwork and have no data or script. A figure's artwork -- these panels and the parts of panels no code draws -- is one transparent image of the whole page, `data/<fig>/<fig>_artwork/artwork.png`, which the page script draws over the panels, so the rendered pages are complete; the panel renders show what code draws.
+- `fig1_a_homecage_video` and `fig1_c_labeled_image` and `fig2_c_model_schematic` and `figS2_a_depth_methods` and `figS9_b_spectral_profiles` and `figS9_c_call_type_examples` are artwork and have no data or script. A figure's artwork -- these panels and the parts of panels no code draws -- is one transparent image of the whole page, `data/<fig>/<fig>_artwork/artwork.png`, which the page script draws over the panels, so the rendered pages are complete; the panel renders show what code draws.
 - Needs Python 3.11 or later; tested with Python 3.13.9, numpy 2.3.5 and matplotlib 3.10.6.
 - The figures are set in Arial. Where Arial is not installed, matplotlib warns ("findfont: Font family 'Arial' not found") and falls back to its bundled DejaVu Sans, which sets text wider, so the renders then differ from the published pages.
 

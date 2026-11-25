@@ -5,8 +5,8 @@ Each panel's script draws into a page-sized figure at its own place on the
 page; this runs them all onto one figure and saves the page at its real
 size (US Letter).
 
-Not redrawn: fig1_a_homecage_video -- artwork pasted in Illustrator; not
-drawn by code.
+Not redrawn: fig1_a_homecage_video, fig1_c_labeled_image -- artwork pasted
+in Illustrator; not drawn by code.
 
 The page's artwork -- the panels and parts of panels no code draws, as the
 author made them -- is drawn over the panels from
@@ -45,11 +45,11 @@ FONT_NAME = 'Arial'
 LETTER_SIZE = 12
 LETTER_COLOUR = '#000000'
 PANELS = ['fig1_b_label_timeseries',
- 'fig1_c_labeled_image',
  'fig1_d_paths_by_id',
  'fig1_e_raw_pca',
  'fig1_f_egocentric_pca']
-PASTED_LETTERS = [{'ch': 'a', 'x': 0.379, 'baseline': 0.422}]
+PASTED_LETTERS = [{'ch': 'a', 'x': 0.379, 'baseline': 0.422},
+ {'ch': 'c', 'x': 0.379, 'baseline': 2.462}]
 PLACEHOLDERS = []
 ARTWORK = 'fig1_artwork/artwork.png'
 
